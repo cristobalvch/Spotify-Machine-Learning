@@ -8,7 +8,9 @@ A cool way to create your own  Playlists on Spotify Clustering tracks with K-mea
 Explanation
 https://medium.com/@cristobal.veas.ch/clustering-music-to-create-your-personal-playlists-on-spotify-using-python-and-k-means-a39c4158589a
 
-files: clustering2.ipynb | clustering.R | playlists.ipynb
+files: clustering2.ipynb | clustering.R | playlists.ipynb | helpers.py 
+
+data: df1.csv | df2.csv | cluster0.csv | cluster1.csv 
 
 
 CLASSIFICATION:
@@ -18,4 +20,6 @@ Predicting the Music Mood of a Song with Deep Learning using Keras Multi-Class 
 Explanation
 https://medium.com/@cristobal.veas.ch/clustering-music-to-create-your-personal-playlists-on-spotify-using-python-and-k-means-a39c4158589a
 
-files: Keras-Classification.ipynb
+files: Keras-Classification.ipynb | helpers.py
+
+data: data_moods.csv
