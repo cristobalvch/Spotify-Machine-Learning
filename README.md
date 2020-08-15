@@ -18,8 +18,7 @@ CLASSIFICATION:
 Predicting the Music Mood of a Song with Deep Learning using Keras Multi-Class Neural Network.
 
 Explanation
-https://medium.com/@cristobal.veas.ch/clustering-music-to-create-your-personal-playlists-on-spotify-using-python-and-k-means-a39c4158589a
-
+https://medium.com/@cristobal.veas.ch/predicting-the-music-mood-of-a-song-with-deep-learning-c3ac2b45229e
 files: Keras-Classification.ipynb | helpers.py
 
 data: data_moods.csv
