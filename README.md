@@ -1,4 +1,6 @@
 # Spotify-Machine-Learning
+## IMPORTANT!!: This Project is not being maintained Anymore
+
 Doing cool things using Spotify and Machine Learning Algorithms
 
 CLUSTERING:
